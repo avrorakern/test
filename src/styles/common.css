@@ -1,0 +1,16 @@
+body {
+    font-family: 'Inter';
+    position: relative;
+}
+
+.app__cap {
+    color: #000;
+    font-size: 37px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%;
+    letter-spacing: 46.99px;
+    text-transform: uppercase;
+    padding: 20px 0 33px 0;
+    text-align: center;
+}
